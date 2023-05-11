@@ -1,0 +1,22 @@
+spring:
+  #datasource:
+  #  driver-class-name: org.postgresql.Driver
+  #  username: postgres
+  #  url: jdbc:postgresql://localhost:5432/perasoftwaretestDB
+  #  password: '123'
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+twilio:
+  account-sid: "AC2e1082eb3a3fe90367c7850fbcbe8e5d"
+  auth-token: "6997eebe9cb0af30ce06842a37ca3930"
+
+weather:
+  auth-token: "ef6795061fd94b61a7820245230502"

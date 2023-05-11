@@ -1,0 +1,43 @@
+{
+  "Root": {
+    "location": {
+      "name": "Manisa",
+      "region": "Manisa",
+      "country": "Turkey",
+      "lat": 38.65,
+      "lon": 27.33,
+      "tz_id": "Europe/Istanbul",
+      "localtime_epoch": 1683495778,
+      "localtime": "2023-05-08 0:42"
+    },
+    "current": {
+      "last_updated_epoch": 1683495000,
+      "last_updated": "2023-05-08 00:30",
+      "temp_c": 16,
+      "temp_f": 60.8,
+      "is_day": 0,
+      "condition": {
+        "text": "Açık",
+        "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+        "code": 1000
+      },
+      "wind_mph": 3.8,
+      "wind_kph": 6.1,
+      "wind_degree": 320,
+      "wind_dir": "NW",
+      "pressure_mb": 1016,
+      "pressure_in": 30,
+      "precip_mm": 0,
+      "precip_in": 0,
+      "humidity": 72,
+      "cloud": 0,
+      "feelslike_c": 16,
+      "feelslike_f": 60.8,
+      "vis_km": 10,
+      "vis_miles": 6,
+      "uv": 1,
+      "gust_mph": 6.9,
+      "gust_kph": 11.2
+    }
+  }
+}

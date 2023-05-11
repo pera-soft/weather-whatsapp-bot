@@ -1,0 +1,42 @@
+[
+  {
+    "Latitude": "38.651646",
+    "Longitude": "27.332804",
+    "Address": "Muradiye Mahallesi Çimen Sokak No:26, Manisa 45140",
+    "SmsMessageSid": "SM427ae063d0af9659b63160eff6498787",
+    "NumMedia": "0",
+    "ProfileName": "Some Name",
+    "SmsSid": "SM427ae063d0af9659b63160eff6498787",
+    "WaId": "XXXXXXXXXXXX",
+    "SmsStatus": "received",
+    "Label": "EGEP Uluslararası Belgelendirme ve Gözetim Hizmetleri",
+    "Body": "",
+    "To": "whatsapp:+XXXXXXXXXXX",
+    "NumSegments": "1",
+    "ReferralNumMedia": "0",
+    "MessageSid": "SM427ae063d0af9659b63160eff6498787",
+    "AccountSid": "AC2e1082eb3a3fe90367c7850fbcbe8e5d",
+    "From": "whatsapp:+XXXXXXXXXXXX",
+    "ApiVersion": "2010-04-01"
+  },
+  {
+    "Latitude": "38.651646",
+    "Longitude": "27.332804",
+    "Address": "Muradiye Mahallesi Çimen Sokak No:26, Manisa 45140",
+    "SmsMessageSid": "SM427ae063d0af9659b63160eff6498787",
+    "NumMedia": "0",
+    "ProfileName": "Kadir Yüksel",
+    "SmsSid": "SM427ae063d0af9659b63160eff6498787",
+    "WaId": "905079788883",
+    "SmsStatus": "received",
+    "Label": "EGEP Uluslararası Belgelendirme ve Gözetim Hizmetleri",
+    "Body": "",
+    "To": "whatsapp:+14155238886",
+    "NumSegments": "1",
+    "ReferralNumMedia": "0",
+    "MessageSid": "SM427ae063d0af9659b63160eff6498787",
+    "AccountSid": "AC2e1082eb3a3fe90367c7850fbcbe8e5d",
+    "From": "whatsapp:+905079788883",
+    "ApiVersion": "2010-04-01"
+  }
+]

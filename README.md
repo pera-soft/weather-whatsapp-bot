@@ -8,9 +8,8 @@
 
   <h3 align="center">Whatsapp Chatbot</h3>
 
-  <p align="center">
-    TODO: Add description.
-    <br />
+  <p align="center">  
+  <br />
     <!--
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -31,10 +30,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="##built-with">Built With</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -52,9 +48,10 @@
   </ol>
 </details>
 
-
+<br />
 
 <!-- ABOUT THE PROJECT -->
+<!--
 ## About The Project(TODO: Write Explanation)
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -72,9 +69,9 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-### Built With
+## Built With
 
 
 * [![Java][Java]][Java-url]
@@ -103,8 +100,8 @@ Use the `BLANK_README.md` to get started.
 
 ## How To Send Messages
 
-* Send "join your-sandbox-name" Whatsapp message to the phone number given you by Twilio. See [Twilio Sandbox Video] for more information.
-* After joining the sandbox you can now send location message to the phone number.
+* Send "join your-sandbox-name" Whatsapp message to the phone number given you by Twilio. Watch [Twilio Sandbox Video] for more information.
+* After joining the sandbox you can now send a location message to the phone number.
 <!--
 ### Installation
 
